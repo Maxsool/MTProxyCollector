@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 session = requests.Session()
 
@@ -29,9 +30,13 @@ def get_telegram_proxies(url):
         return []
 
 
-json_urls = [
-    # اگر داشتی اینجا بذار
-]
+# ✅ این تابع باید قبل از استفاده تعریف شود
+def save_as_json(proxy_list):
+    with open("proxies.json", "w", encoding="utf-8") as f:
+        json.dump({"proxies": proxy_list}, f, ensure_ascii=False, indent=2)
+
+
+json_urls = []
 
 telegram_urls = [
     "https://t.me/s/iporoto",
@@ -52,7 +57,9 @@ proxies = list(set(
 
 print("TOTAL:", len(proxies))
 
+# TXT
 with open("proxy.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(proxies) if proxies else "NO PROXIES")
 
+# JSON
 save_as_json(proxies)
