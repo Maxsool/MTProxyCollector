@@ -6,27 +6,31 @@ session = requests.Session()
 
 def get_json_proxies(urls):
     proxies = []
-
     for url in urls:
         try:
-            proxies += [item["link"] for item in session.get(url, timeout=10).json()]
-        except Exception as e:
-            print(f"JSON Error ({url}): {e}")
-
+            data = session.get(url, timeout=10).json()
+            proxies += [item["link"] for item in data if "link" in item]
+        except:
+            pass
     return proxies
 
 
 def get_telegram_proxies(url):
     try:
-        soup = BeautifulSoup(session.get(url, timeout=10).text, "html.parser")
-        return [a["href"] for a in soup.find_all("a", string="پروکسی")]
-    except Exception as e:
-        print(f"Telegram Error ({url}): {e}")
+        html = session.get(url, timeout=10).text
+        soup = BeautifulSoup(html, "html.parser")
+
+        return [
+            a["href"]
+            for a in soup.find_all("a", href=True)
+            if "proxy" in a["href"]
+        ]
+    except:
         return []
 
 
 json_urls = [
-    "",
+    # اگر داشتی اینجا بذار
 ]
 
 telegram_urls = [
@@ -41,24 +45,12 @@ telegram_urls = [
     "https://t.me/s/PyroProxy",
 ]
 
-proxies = (
-    get_json_proxies(json_urls)
-    + [p for url in telegram_urls for p in get_telegram_proxies(url)]
-)
+proxies = list(set(
+    get_json_proxies(json_urls) +
+    [p for url in telegram_urls for p in get_telegram_proxies(url)]
+))
+
+print("TOTAL:", len(proxies))
 
 with open("proxy.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(proxies))
-
-print(f"{len(proxies)} proxies saved.")
-
-#####
-
-import json
-
-def save_as_json(proxy_list):
-    data = {"proxies": proxy_list}
-
-    with open("proxies.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-###############
+    f.write("\n".join(proxies) if proxies else "NO PROXIES")
