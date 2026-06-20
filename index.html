@@ -1,98 +1,84 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
 <head>
 <meta charset="UTF-8">
-<title>Telegram Proxies</title>
-
-<style>
-body {
-    font-family: Arial;
-    background: #111;
-    color: #fff;
-}
-
-.container {
-    max-width: 700px;
-    margin: auto;
-    padding: 20px;
-}
-
-.proxy {
-    background: #222;
-    padding: 10px;
-    margin: 10px 0;
-    border-radius: 8px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-a {
-    color: #4fc3f7;
-    text-decoration: none;
-    word-break: break-all;
-}
-
-button {
-    background: #4caf50;
-    border: none;
-    color: white;
-    padding: 5px 10px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MTProxy List</title>
+<script src="https://cdn.tailwindcss.com"></script>
 </head>
 
-<body>
+<body class="bg-slate-950 text-white">
 
-<div class="container">
-<h2>Telegram Proxies</h2>
-<div id="list">Loading...</div>
+<div class="max-w-3xl mx-auto p-5">
+
+    <!-- Header -->
+    <h1 class="text-3xl font-bold text-cyan-400 mb-4">
+        ⚡ MTProxy Nexus
+    </h1>
+
+    <!-- Search -->
+    <input id="search" placeholder="Search proxy..."
+        class="w-full p-3 rounded-xl bg-slate-800 outline-none mb-4">
+
+    <!-- List -->
+    <div id="list" class="space-y-3"></div>
+
 </div>
 
 <script>
-async function loadProxies() {
-    try {
-        const res = await fetch("proxy.txt?cache=" + Date.now());
-        const text = await res.text();
+let allProxies = [];
 
-        const list = document.getElementById("list");
+async function load() {
+    const res = await fetch("proxy.txt?cache=" + Date.now());
+    const text = await res.text();
 
-        if (!text || text.includes("NO PROXIES")) {
-            list.innerHTML = "No proxies found ❌";
-            return;
-        }
+    allProxies = text.split("\n").filter(Boolean);
 
-        const proxies = text.split("\n").filter(p => p.trim());
-
-        list.innerHTML = "";
-
-        proxies.forEach(proxy => {
-            const div = document.createElement("div");
-            div.className = "proxy";
-
-            div.innerHTML = `
-                <a href="${proxy}" target="_blank">${proxy}</a>
-                <button onclick="copyText('${proxy}')">Copy</button>
-            `;
-
-            list.appendChild(div);
-        });
-
-    } catch (e) {
-        document.getElementById("list").innerHTML =
-            "Error loading proxy.txt ❌";
-        console.log(e);
-    }
+    render(allProxies);
 }
 
-function copyText(text) {
-    navigator.clipboard.writeText(text);
+function render(data) {
+    const list = document.getElementById("list");
+    list.innerHTML = "";
+
+    if (!data.length) {
+        list.innerHTML = "<p class='text-red-400'>No proxies found</p>";
+        return;
+    }
+
+    data.forEach(p => {
+        const box = document.createElement("div");
+        box.className = "bg-slate-800 p-3 rounded-xl flex justify-between items-center";
+
+        box.innerHTML = `
+            <a href="${p}" target="_blank"
+               class="text-cyan-300 break-all text-sm">
+               ${p}
+            </a>
+
+            <button onclick="copy('${p}')"
+                class="bg-cyan-500 px-3 py-1 rounded-lg text-sm">
+                Copy
+            </button>
+        `;
+
+        list.appendChild(box);
+    });
+}
+
+// search
+document.getElementById("search").addEventListener("input", e => {
+    const val = e.target.value.toLowerCase();
+    render(allProxies.filter(p => p.toLowerCase().includes(val)));
+});
+
+// copy
+function copy(t) {
+    navigator.clipboard.writeText(t);
     alert("Copied!");
 }
 
-loadProxies();
+load();
 </script>
 
 </body>
