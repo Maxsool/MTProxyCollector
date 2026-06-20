@@ -54,3 +54,5 @@ print("TOTAL:", len(proxies))
 
 with open("proxy.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(proxies) if proxies else "NO PROXIES")
+
+save_as_json(proxies)
