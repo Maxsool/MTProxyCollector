@@ -46,7 +46,7 @@ def get_telegram_proxies(url):
 
 # 🔹 JSON save
 def save_as_json(proxy_list):
-    with open("proxies.json", "w", encoding="utf-8") as f:
+    with open("proxy.json", "w", encoding="utf-8") as f:
         json.dump({"proxies": proxy_list}, f, ensure_ascii=False, indent=2)
 
 
