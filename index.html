@@ -1,64 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Proxy List</title>
-
-<style>
-body {
-    font-family: Arial;
-    background: #111;
-    color: #fff;
-}
-
-.container {
-    max-width: 700px;
-    margin: auto;
-    padding: 20px;
-}
-
-.proxy {
-    background: #222;
-    padding: 10px;
-    margin: 10px 0;
-    border-radius: 8px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-a {
-    color: #4fc3f7;
-    text-decoration: none;
-    word-break: break-all;
-}
-
-button {
-    background: #4caf50;
-    border: none;
-    color: white;
-    padding: 5px 10px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-</style>
-</head>
-
-<body>
-
-<div class="container">
-<h2>Telegram Proxies</h2>
-
-<div id="list"></div>
-</div>
-
 <script>
-fetch("proxies.json")
-.then(res => res.json())
-.then(data => {
+fetch("proxy.txt")
+.then(res => res.text())
+.then(text => {
     const list = document.getElementById("list");
 
-    data.proxies.forEach(proxy => {
+    const proxies = text.split("\n").filter(p => p.trim() !== "");
+
+    proxies.forEach(proxy => {
         const div = document.createElement("div");
         div.className = "proxy";
 
@@ -76,6 +24,3 @@ function copyText(text) {
     alert("Copied!");
 }
 </script>
-
-</body>
-</html>
