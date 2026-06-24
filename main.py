@@ -79,15 +79,8 @@ json_urls = [
 
 # کانال‌های تلگرام
 telegram_urls = [
-    "https://t.me/s/iporoto",
-    "https://t.me/s/HiProxy",
     "https://t.me/s/iproxy",
     "https://t.me/s/iRoProxy",
-    "https://t.me/s/proxyforopeta",
-    "https://t.me/s/IRN_Proxy",
-    "https://t.me/s/MProxy_ir",
-    "https://t.me/s/ProxyHagh",
-    "https://t.me/s/PyroProxy",
 ]
 
 # جمع‌آوری
