@@ -81,6 +81,15 @@ json_urls = [
 telegram_urls = [
     "https://t.me/s/iproxy",
     "https://t.me/s/iRoProxy",
+    "https://t.me/s/darkproxy",
+    "https://t.me/s/proxymtprotoj",
+    "https://t.me/s/MTProxyStar",
+    "https://t.me/s/MTProxyStar",
+    "https://t.me/s/ProxyMTProto_tel",
+    "https://t.me/s/MTP_roto",
+    "https://t.me/s/ProxyMTProto",
+    "https://t.me/s/proxymtprotoir",
+    
 ]
 
 # جمع‌آوری
