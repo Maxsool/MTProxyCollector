@@ -1,58 +1,83 @@
+import json
+import html
+from urllib.parse import urlparse, parse_qs
+
 import requests
 from bs4 import BeautifulSoup
-import json
 
 session = requests.Session()
+session.headers.update({
+    "User-Agent": "Mozilla/5.0"
+})
 
 
-# 🔹 JSON sources (اختیاری)
 def get_json_proxies(urls):
     proxies = []
+
     for url in urls:
         try:
             data = session.get(url, timeout=10).json()
-            proxies += [item["link"] for item in data if "link" in item]
-        except:
-            pass
+            proxies.extend(
+                item["link"]
+                for item in data
+                if isinstance(item, dict) and "link" in item
+            )
+        except Exception as e:
+            print(f"JSON Error: {url} -> {e}")
+
     return proxies
 
 
-# 🔹 Telegram scraping (FIXED + CLEAN FILTER)
 def get_telegram_proxies(url):
     try:
-        html = session.get(url, timeout=10).text
-        soup = BeautifulSoup(html, "html.parser")
+        response = session.get(url, timeout=10)
+        soup = BeautifulSoup(response.text, "html.parser")
 
         proxies = []
 
         for a in soup.find_all("a", href=True):
-            link = a["href"]
+            link = html.unescape(a["href"]).strip()
 
-            # ❌ حذف پست‌ها و لینک‌های اضافی
-            if "/mproxy_ir/" in link:
-                continue
-            if "t.me/" in link and "proxy?" not in link:
-                continue
-
-            # ✔️ فقط MTProto proxy
-            if "t.me/proxy?" in link or "tg://proxy?" in link:
+            # فقط پروکسی واقعی
+            if (
+                link.startswith("https://t.me/proxy?")
+                or link.startswith("tg://proxy?")
+            ):
                 proxies.append(link)
 
         return proxies
 
-    except:
+    except Exception as e:
+        print(f"Telegram Error: {url} -> {e}")
         return []
 
 
-# 🔹 JSON save
 def save_as_json(proxy_list):
+    result = []
+
+    for proxy in proxy_list:
+        try:
+            q = parse_qs(urlparse(proxy).query)
+
+            result.append({
+                "server": q.get("server", [""])[0],
+                "port": q.get("port", [""])[0],
+                "secret": q.get("secret", [""])[0],
+                "url": proxy
+            })
+        except:
+            pass
+
     with open("proxy.json", "w", encoding="utf-8") as f:
-        json.dump({"proxies": proxy_list}, f, ensure_ascii=False, indent=2)
+        json.dump(result, f, ensure_ascii=False, indent=2)
 
 
-# 🔹 sources
-json_urls = []
+# منابع JSON
+json_urls = [
+    # "https://example.com/proxies.json"
+]
 
+# کانال‌های تلگرام
 telegram_urls = [
     "https://t.me/s/iporoto",
     "https://t.me/s/HiProxy",
@@ -65,21 +90,25 @@ telegram_urls = [
     "https://t.me/s/PyroProxy",
 ]
 
+# جمع‌آوری
+proxies = []
 
-# 🔹 collect
-proxies = list(set(
-    get_json_proxies(json_urls) +
-    [p for url in telegram_urls for p in get_telegram_proxies(url)]
-))
+proxies.extend(get_json_proxies(json_urls))
 
+for url in telegram_urls:
+    proxies.extend(get_telegram_proxies(url))
 
-print("TOTAL:", len(proxies))
+# حذف تکراری‌ها و مرتب‌سازی
+proxies = sorted(set(proxies))
 
+print(f"TOTAL: {len(proxies)}")
 
-# 🔹 save TXT
+# TXT
 with open("proxy.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(proxies) if proxies else "NO PROXIES")
+    f.write("\n".join(proxies))
 
-
-# 🔹 save JSON
+# JSON
 save_as_json(proxies)
+
+print("proxy.txt saved")
+print("proxy.json saved")
