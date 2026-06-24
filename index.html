@@ -1,85 +1,146 @@
+```html
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MTProxy List</title>
+<title>MTProxy Rasool</title>
+
 <script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+body{
+    background:#020617;
+}
+.card{
+    transition:.2s;
+}
+.card:hover{
+    transform:translateY(-2px);
+}
+</style>
+
 </head>
 
-<body class="bg-slate-950 text-white">
+<body class="text-white">
 
-<div class="max-w-3xl mx-auto p-5">
+<div class="max-w-5xl mx-auto p-5">
 
-    <!-- Header -->
-    <h1 class="text-3xl font-bold text-cyan-400 mb-4">
-        ⚡ MTProxy Rasool
-    </h1>
+    <div class="flex justify-between items-center mb-5">
+        <h1 class="text-3xl font-bold text-cyan-400">
+            ⚡ MTProxy Rasool
+        </h1>
 
-    <!-- Search -->
-    <input id="search" placeholder="Search proxy..."
-        class="w-full p-3 rounded-xl bg-slate-800 outline-none mb-4">
+        <div id="count"
+             class="bg-cyan-500/20 text-cyan-300 px-4 py-2 rounded-xl">
+            0
+        </div>
+    </div>
 
-    <!-- List -->
-    <div id="list" class="space-y-3"></div>
+    <input
+        id="search"
+        type="text"
+        placeholder="Search server..."
+        class="w-full mb-5 p-3 rounded-xl bg-slate-900 border border-slate-800 outline-none">
+
+    <div id="list"
+         class="grid md:grid-cols-2 gap-4">
+    </div>
 
 </div>
 
 <script>
-let allProxies = [];
 
-async function load() {
-    const res = await fetch("proxy.txt?cache=" + Date.now());
-    const text = await res.text();
+let proxies = [];
 
-    allProxies = text.split("\n").filter(Boolean);
+async function loadProxies() {
 
-    render(allProxies);
+    const res = await fetch("proxy.json?cache=" + Date.now());
+    proxies = await res.json();
+
+    render(proxies);
 }
 
-function render(data) {
+function render(data){
+
+    document.getElementById("count").innerText =
+        data.length + " Proxies";
+
     const list = document.getElementById("list");
+
     list.innerHTML = "";
 
-    if (!data.length) {
-        list.innerHTML = "<p class='text-red-400'>No proxies found</p>";
+    if(data.length === 0){
+        list.innerHTML =
+            "<div class='text-red-400'>No proxies found</div>";
         return;
     }
 
-    data.forEach(p => {
-        const box = document.createElement("div");
-        box.className = "bg-slate-800 p-3 rounded-xl flex justify-between items-center";
+    data.forEach(proxy => {
 
-        box.innerHTML = `
-            <a href="${p}" target="_blank"
-               class="text-cyan-300 break-all text-sm">
-               ${p}
-            </a>
+        const card = document.createElement("div");
 
-            <button onclick="copy('${p}')"
-                class="bg-cyan-500 px-3 py-1 rounded-lg text-sm">
-                Copy
-            </button>
+        card.className =
+            "card bg-slate-900 border border-slate-800 rounded-2xl p-4";
+
+        card.innerHTML = `
+
+            <div class="text-cyan-400 font-bold break-all">
+                ${proxy.server}
+            </div>
+
+            <div class="text-slate-400 text-sm mt-1">
+                Port: ${proxy.port}
+            </div>
+
+            <div class="flex gap-2 mt-4">
+
+                <a
+                    href="${proxy.url}"
+                    target="_blank"
+                    class="flex-1 text-center bg-green-600 hover:bg-green-500 px-3 py-2 rounded-xl">
+                    Connect
+                </a>
+
+                <button
+                    onclick="copyProxy('${proxy.url}')"
+                    class="bg-cyan-600 hover:bg-cyan-500 px-3 py-2 rounded-xl">
+                    Copy
+                </button>
+
+            </div>
+
         `;
 
-        list.appendChild(box);
+        list.appendChild(card);
     });
 }
 
-// search
-document.getElementById("search").addEventListener("input", e => {
-    const val = e.target.value.toLowerCase();
-    render(allProxies.filter(p => p.toLowerCase().includes(val)));
-});
+function copyProxy(text){
 
-// copy
-function copy(t) {
-    navigator.clipboard.writeText(t);
-    alert("Copied!");
+    navigator.clipboard.writeText(text);
+
+    alert("Copied");
 }
 
-load();
+document
+.getElementById("search")
+.addEventListener("input", e => {
+
+    const q = e.target.value.toLowerCase();
+
+    const filtered = proxies.filter(p =>
+        p.server.toLowerCase().includes(q) ||
+        p.port.includes(q)
+    );
+
+    render(filtered);
+});
+
+loadProxies();
+
 </script>
 
 </body>
 </html>
+```
