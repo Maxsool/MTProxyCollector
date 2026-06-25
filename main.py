@@ -89,6 +89,8 @@ telegram_urls = [
     "https://t.me/s/MTP_roto",
     "https://t.me/s/ProxyMTProto",
     "https://t.me/s/proxymtprotoir",
+    "https://t.me/s/MTProxyStar"
+    "https://t.me/s/Proxy_Qavi"
     "https://t.me/s/TelMTProto"
 
 ]
