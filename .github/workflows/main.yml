@@ -1,5 +1,4 @@
 name: ProxyCollector Script
-
 on:
   schedule:
     - cron: "*/15 * * * *"
