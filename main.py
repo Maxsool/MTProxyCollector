@@ -79,7 +79,7 @@ json_urls = [
 
 # کانال‌های تلگرام
 telegram_urls = [
-    "https://t.me/s/iproxy",
+    "https://t.me/s/iMTProto",
     "https://t.me/s/iRoProxy",
     "https://t.me/s/darkproxy",
     "https://t.me/s/proxymtprotoj",
