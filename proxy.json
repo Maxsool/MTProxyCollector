@@ -60,12 +60,6 @@
     "url": "https://t.me/proxy?server=87.248.129.180&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "b8rta.co.uk.",
-    "port": "443",
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "https://t.me/proxy?server=b8rta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
     "server": "best-sellerst.co.uk.",
     "port": "443",
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
@@ -96,16 +90,16 @@
     "url": "https://t.me/proxy?server=ftp.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
-    "server": "googel.alo-otp.info.",
-    "port": "25565",
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "https://t.me/proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
     "server": "gorbeye-7000-sale.asiaadomainsshatelhamrahaval.co.uk.",
     "port": "443",
     "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
     "url": "https://t.me/proxy?server=gorbeye-7000-sale.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
+  },
+  {
+    "server": "hetzner.brettanderson.co.uk.",
+    "port": "443",
+    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff6865747a6e65722e636f6d",
+    "url": "https://t.me/proxy?server=hetzner.brettanderson.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6865747a6e65722e636f6d"
   },
   {
     "server": "login.kerfilia.info",
@@ -168,6 +162,12 @@
     "url": "https://t.me/proxy?server=so-cpu.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
+    "server": "subobdoa.co.uk.",
+    "port": "443",
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "https://t.me/proxy?server=subobdoa.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
     "server": "sv.just-money.co.uk",
     "port": "443",
     "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -190,11 +190,5 @@
     "port": "443",
     "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
     "url": "https://t.me/proxy?server=web.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-    "server": "webhook.what-ever.co.uk.",
-    "port": "443",
-    "secret": "7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==",
-    "url": "https://t.me/proxy?server=webhook.what-ever.co.uk.&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ=="
   }
 ]
