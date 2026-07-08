@@ -84,12 +84,6 @@
     "url": "https://t.me/proxy?server=br8ta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "fas8t.co.uk.",
-    "port": "443",
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "https://t.me/proxy?server=fas8t.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
     "server": "fresh.t-proxy.info.",
     "port": "25565",
     "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
