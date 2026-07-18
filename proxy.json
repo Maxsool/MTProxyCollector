@@ -30,12 +30,6 @@
     "url": "https://t.me/proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "best-sellerst.co.uk.",
-    "port": "443",
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "https://t.me/proxy?server=best-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
     "server": "blue.golgoli2.co.uk",
     "port": "2096",
     "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
@@ -108,12 +102,6 @@
     "url": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "haji.bia-hastam.co.uk",
-    "port": "8880",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=haji.bia-hastam.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "kala.golgoli1.co.uk",
     "port": "443",
     "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
@@ -130,6 +118,12 @@
     "port": "2096",
     "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
     "url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d"
+  },
+  {
+    "server": "main.muffinnoliershatelcomingsoon.co.uk.",
+    "port": "443",
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "https://t.me/proxy?server=main.muffinnoliershatelcomingsoon.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
     "server": "mashtibash.vafadari.co.uk",
@@ -184,6 +178,12 @@
     "port": "443",
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
     "url": "https://t.me/proxy?server=rudomain.info.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "salahodine.ir.",
+    "port": "443",
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "https://t.me/proxy?server=salahodine.ir.&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
     "server": "silver.ciaude.co.uk",
