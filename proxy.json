@@ -1,11 +1,5 @@
 [
   {
-    "server": "135.181.86.60",
-    "port": "443",
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "https://t.me/proxy?server=135.181.86.60&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
     "server": "167.233.209.232",
     "port": "443",
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
@@ -28,12 +22,6 @@
     "port": "443",
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
     "url": "https://t.me/proxy?server=2.28.3.60&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
-  },
-  {
-    "server": "204.168.208.130",
-    "port": "443",
-    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "https://t.me/proxy?server=204.168.208.130&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
     "server": "api-web.asiaadomainsshatelhamrahaval.co.uk.",
