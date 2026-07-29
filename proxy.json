@@ -30,6 +30,12 @@
     "url": "https://t.me/proxy?server=bad.nisti.co.uk&port=8880&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D"
   },
   {
+    "server": "best7uer.co.uk",
+    "port": "443",
+    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+    "url": "https://t.me/proxy?server=best7uer.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+  },
+  {
     "server": "bia.nisti.co.uk",
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
