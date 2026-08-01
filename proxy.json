@@ -324,6 +324,12 @@
     "url": "https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "zizizizizizizi.co.uk.",
+    "port": "25565",
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "https://t.me/proxy?server=zizizizizizizi.co.uk.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
     "server": "zon-b0z.co.uk.",
     "port": "443",
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
