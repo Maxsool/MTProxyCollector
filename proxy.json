@@ -36,12 +36,6 @@
     "url": "https://t.me/proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "bad.nisti.co.uk",
-    "port": "8880",
-    "secret": "EERighJJvXrFGRMCIMJdCQ==",
-    "url": "https://t.me/proxy?server=bad.nisti.co.uk&port=8880&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D"
-  },
-  {
     "server": "beest-sellerst.co.uk.",
     "port": "443",
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
@@ -52,12 +46,6 @@
     "port": "443",
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
     "url": "https://t.me/proxy?server=best7uer.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
-  },
-  {
-    "server": "bia.nisti.co.uk",
-    "port": "8880",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "blue.golgoli2.co.uk",
@@ -94,12 +82,6 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "goat.nisti.co.uk",
-    "port": "8880",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "gold.lavazemi4.co.uk",
@@ -144,12 +126,6 @@
     "url": "https://t.me/proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d"
   },
   {
-    "server": "khob.nisti.co.uk",
-    "port": "8880",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=khob.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "login.kerfilia.info",
     "port": "6775",
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
@@ -190,18 +166,6 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "messi.nisti.co.uk",
-    "port": "8880",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=messi.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "messi2.nisti.co.uk",
-    "port": "8880",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "new.vafadari.co.uk",
@@ -322,12 +286,6 @@
     "port": "25565",
     "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
     "url": "https://t.me/proxy?server=zizizizizizizi.co.uk.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-    "server": "zon-b0z.co.uk.",
-    "port": "443",
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "https://t.me/proxy?server=zon-b0z.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
     "server": "j4y67nf.ir.meli-n13.info",
