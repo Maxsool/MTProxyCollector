@@ -72,6 +72,12 @@
     "url": "https://t.me/proxy?server=box.lavazemi5.co.uk&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d"
   },
   {
+    "server": "digi.vafadari.co.uk",
+    "port": "2096",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=digi.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "esmchiy.ir",
     "port": "443",
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
