@@ -1,17 +1,5 @@
 [
   {
-    "server": "1380.hajikalashatelservieshamrahavalcandy.co.uk",
-    "port": "443",
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-    "url": "https://t.me/proxy?server=1380.hajikalashatelservieshamrahavalcandy.co.uk&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t"
-  },
-  {
-    "server": "1d.mtprotonewrunningproxasia.info",
-    "port": "443",
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-    "url": "https://t.me/proxy?server=1d.mtprotonewrunningproxasia.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t"
-  },
-  {
     "server": "Hel-hi.co.uk.",
     "port": "443",
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
@@ -64,6 +52,12 @@
     "port": "443",
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
     "url": "https://t.me/proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "benz.peachsoft.co.uk.",
+    "port": "443",
+    "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
+    "url": "https://t.me/proxy?server=benz.peachsoft.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
   },
   {
     "server": "book.malavanann.co.uk",
@@ -142,12 +136,6 @@
     "port": "2096",
     "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
     "url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d"
-  },
-  {
-    "server": "mashtibash.vafadari.co.uk",
-    "port": "2096",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=mashtibash.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "me.foltmeingop.co.uk",
