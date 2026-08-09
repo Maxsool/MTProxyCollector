@@ -12,6 +12,12 @@
     "url": "https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
+    "server": "3-33-3.ir",
+    "port": "33",
+    "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+    "url": "https://t.me/proxy?server=3-33-3.ir&port=33&secret=3QAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
     "server": "31.hide.newflamingodomain.co.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -286,6 +292,12 @@
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "www.darniod.ooo",
+    "port": "80",
+    "secret": "7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ==",
+    "url": "https://t.me/proxy?server=www.darniod.ooo&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
   },
   {
     "server": "you.foltmeingop.co.uk",
