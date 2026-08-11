@@ -300,6 +300,12 @@
     "url": "https://t.me/proxy?server=www.darniod.ooo&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ=="
   },
   {
+    "server": "www.meow0.co.uk.",
+    "port": "25565",
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "https://t.me/proxy?server=www.meow0.co.uk.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
     "server": "yeke-jahan.mohearn.co.uk.",
     "port": "443",
     "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
