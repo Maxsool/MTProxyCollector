@@ -96,12 +96,6 @@
     "url": "https://t.me/proxy?server=digi.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "dns.speed-benz.co.uk",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "flux.lavazemi5.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
