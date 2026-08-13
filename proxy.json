@@ -84,12 +84,6 @@
     "url": "https://t.me/proxy?server=bia-ba-ham.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-    "server": "book.malavanann.co.uk",
-    "port": "2096",
-    "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "url": "https://t.me/proxy?server=book.malavanann.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d"
-  },
-  {
     "server": "ccc.horizon555.co.uk",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -172,12 +166,6 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "lux.lavazemi1.co.uk",
-    "port": "2096",
-    "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "url": "https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d"
   },
   {
     "server": "mashti.just-money.co.uk",
