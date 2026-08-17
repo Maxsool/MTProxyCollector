@@ -86,6 +86,12 @@
   {
     "server": "ccc.horizon555.co.uk",
     "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdC",
+    "url": "https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdC"
+  },
+  {
+    "server": "ccc.horizon555.co.uk",
+    "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
