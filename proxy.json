@@ -240,12 +240,6 @@
     "url": "https://t.me/proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "runserver.co.uk",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "s44447n.ir.ir.ir.meli-n12.info",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
