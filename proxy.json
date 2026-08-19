@@ -140,6 +140,12 @@
   {
     "server": "haloinf.info.",
     "port": "8443",
+    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "url": "https://t.me/proxy?server=haloinf.info.&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "haloinf.info.",
+    "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=haloinf.info.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
