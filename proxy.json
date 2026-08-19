@@ -90,12 +90,6 @@
     "url": "https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "dns.bizonre.co.im.",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=dns.bizonre.co.im.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "endless.mountainriver.modern-tools.co.uk.",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
