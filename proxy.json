@@ -318,6 +318,12 @@
     "url": "https://t.me/proxy?server=vasl-sho.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
+    "server": "ving.mozitop.co.uk",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "web.bizonre.co.im.",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
