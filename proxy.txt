@@ -15,7 +15,6 @@ https://t.me/proxy?server=bing.bizonre.co.im.&port=8443&secret=eeNEgYdJvXrFGRMCI
 https://t.me/proxy?server=center.doevoee.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
 https://t.me/proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
 https://t.me/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -46,7 +45,6 @@ https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac51913
 https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
 https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=www.darniod.ooo&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ==
 https://t.me/proxy?server=yeke-jahan.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
