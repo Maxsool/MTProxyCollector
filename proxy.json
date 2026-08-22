@@ -132,6 +132,12 @@
     "url": "https://t.me/proxy?server=help.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "help.nettoyou2.co.uk",
+    "port": "443",
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+    "url": "https://t.me/proxy?server=help.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
+  },
+  {
     "server": "hey.foltmeingop.co.uk",
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -292,6 +298,18 @@
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "support.joumalanet.co.uk",
+    "port": "443",
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+    "url": "https://t.me/proxy?server=support.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
+  },
+  {
+    "server": "support.nettoyou2.co.uk",
+    "port": "443",
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+    "url": "https://t.me/proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
     "server": "uptime.speed-benz.co.uk",
