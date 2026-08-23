@@ -318,12 +318,6 @@
     "url": "https://t.me/proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
-    "server": "uptime.speed-benz.co.uk",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "vasl-sho.mohearn.co.uk.",
     "port": "443",
     "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
@@ -346,6 +340,12 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "zarinpluse.info",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=zarinpluse.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "zomb0m.co.uk.",
