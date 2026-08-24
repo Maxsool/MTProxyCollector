@@ -66,6 +66,12 @@
     "url": "https://t.me/proxy?server=bia-ba-ham.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
+    "server": "ccc.horizon555.co.uk",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "center.doevoee.co.uk.",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
