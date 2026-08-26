@@ -78,6 +78,12 @@
     "url": "https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "dynu.ir.telbet.lol.",
+    "port": "80",
+    "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+    "url": "https://t.me/proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
+  },
+  {
     "server": "flux.lavazemi5.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
