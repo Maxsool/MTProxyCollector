@@ -90,6 +90,12 @@
     "url": "https://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "fresh.t-proxy.info.",
+    "port": "25565",
+    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+    "url": "https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
     "server": "full-vasl.peachsoft.co.uk.",
     "port": "443",
     "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
@@ -124,12 +130,6 @@
     "port": "80",
     "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
     "url": "https://t.me/proxy?server=haji.assassinationpuma.co.uk.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
-  },
-  {
-    "server": "handeeel.co.uk",
-    "port": "25565",
-    "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-    "url": "https://t.me/proxy?server=handeeel.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
   },
   {
     "server": "help.joumalanet.co.uk",
@@ -292,17 +292,5 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "zaman-time.ir.",
-    "port": "8443",
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=zaman-time.ir.&port=8443&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-    "server": "zomb0m.co.uk.",
-    "port": "443",
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "https://t.me/proxy?server=zomb0m.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   }
 ]
