@@ -294,6 +294,12 @@
     "url": "https://t.me/proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
+    "server": "vaja.darkmoon.ir",
+    "port": "443",
+    "secret": "7ps1w03Kw9nyM4pOpSj1R2Z2YWphLmly",
+    "url": "https://t.me/proxy?server=vaja.darkmoon.ir&port=443&secret=7ps1w03Kw9nyM4pOpSj1R2Z2YWphLmly"
+  },
+  {
     "server": "vasl-sho.mohearn.co.uk.",
     "port": "443",
     "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
