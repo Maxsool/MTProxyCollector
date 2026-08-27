@@ -282,6 +282,12 @@
     "url": "https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "support.infinityhalo.co.uk.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "support.nettoyou2.co.uk",
     "port": "443",
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
