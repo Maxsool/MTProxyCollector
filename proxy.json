@@ -36,12 +36,6 @@
     "url": "https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "Suodbo.co.uk.",
-    "port": "443",
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
     "server": "ai.golgoli1.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -148,12 +142,6 @@
     "port": "80",
     "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
     "url": "https://t.me/proxy?server=haji.assassinationpuma.co.uk.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
-  },
-  {
-    "server": "help.joumalanet.co.uk",
-    "port": "443",
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
-    "url": "https://t.me/proxy?server=help.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
   },
   {
     "server": "hey.foltmeingop.co.uk",
@@ -340,6 +328,12 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "yum-yum.ebimarh.info",
+    "port": "443",
+    "secret": "dd1603010200010001fc030386e24c3add",
+    "url": "https://t.me/proxy?server=yum-yum.ebimarh.info&port=443&secret=dd1603010200010001fc030386e24c3add"
   },
   {
     "server": "j4y67nf.ir.meli-n13.info",

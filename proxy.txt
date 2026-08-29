@@ -4,7 +4,6 @@ https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104
 https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=Bzn-to-gol.jangi-zopat.info.&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f75646
 https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=avavavavav.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
@@ -23,7 +22,6 @@ https://t.me/proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e
 https://t.me/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=haji.assassinationpuma.co.uk.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
-https://t.me/proxy?server=help.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
 https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ir.441creative.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6d656469612e737465616d706f77657265642e636f6d
@@ -55,6 +53,7 @@ https://t.me/proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_R
 https://t.me/proxy?server=www.telbet.app&port=443&secret=ee3073e1ec5c594e267e7636f8f5dc73f12d6d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=yeke-jahan.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
 https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=yum-yum.ebimarh.info&port=443&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=j4y67nf.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=j4y7nf.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=j7n.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
