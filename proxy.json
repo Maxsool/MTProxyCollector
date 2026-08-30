@@ -48,12 +48,6 @@
     "url": "https://t.me/proxy?server=65.109.188.175&port=4466&secret=dd114562821249bd7ac519130220c25d08"
   },
   {
-    "server": "Bzn-to-gol.jangi-zopat.info.",
-    "port": "443",
-    "secret": "ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f75646",
-    "url": "https://t.me/proxy?server=Bzn-to-gol.jangi-zopat.info.&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f75646"
-  },
-  {
     "server": "Speed-speed.co.uk.",
     "port": "443",
     "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
@@ -112,12 +106,6 @@
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "dynu.ir.telbet.lol.",
-    "port": "80",
-    "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-    "url": "https://t.me/proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
   },
   {
     "server": "flux.lavazemi5.co.uk",

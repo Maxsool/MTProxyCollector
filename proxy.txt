@@ -6,7 +6,6 @@ https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104
 https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.109.187.98&port=4466&secret=dd114562821249bd7ac519130220c25d08
 https://t.me/proxy?server=65.109.188.175&port=4466&secret=dd114562821249bd7ac519130220c25d08
-https://t.me/proxy?server=Bzn-to-gol.jangi-zopat.info.&port=443&secret=ee00000000000000000000000000000000636f6e736f6c652e6865747a6e65722e636c6f75646
 https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -17,7 +16,6 @@ https://t.me/proxy?server=bia-ba-ham.peachsoft.co.uk.&port=443&secret=eeddff05e6
 https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
 https://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=for-iran.tryzub-it.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
