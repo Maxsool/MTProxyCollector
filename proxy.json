@@ -6,6 +6,18 @@
     "url": "https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
+    "server": "116.202.189.213",
+    "port": "8443",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+    "server": "116.202.189.239",
+    "port": "8443",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=116.202.189.239&port=8443&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
     "server": "21.hide.newflamingodomain.co.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -22,6 +34,18 @@
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "65.109.187.98",
+    "port": "4466",
+    "secret": "dd114562821249bd7ac519130220c25d08",
+    "url": "https://t.me/proxy?server=65.109.187.98&port=4466&secret=dd114562821249bd7ac519130220c25d08"
+  },
+  {
+    "server": "65.109.188.175",
+    "port": "4466",
+    "secret": "dd114562821249bd7ac519130220c25d08",
+    "url": "https://t.me/proxy?server=65.109.188.175&port=4466&secret=dd114562821249bd7ac519130220c25d08"
   },
   {
     "server": "Bzn-to-gol.jangi-zopat.info.",
@@ -148,12 +172,6 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "ir.441creative.co.uk",
-    "port": "443",
-    "secret": "eeddffffffc5a1168b2ff3eba31cbfffff6d656469612e737465616d706f77657265642e636f6d",
-    "url": "https://t.me/proxy?server=ir.441creative.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6d656469612e737465616d706f77657265642e636f6d"
   },
   {
     "server": "iro.varfootball2.co.uk",
@@ -288,22 +306,16 @@
     "url": "https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
+    "server": "ssh.meow0.co.uk",
+    "port": "22",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
     "server": "star.talebi.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "support.nettoyou2.co.uk",
-    "port": "443",
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
-    "url": "https://t.me/proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169"
-  },
-  {
-    "server": "uptime.speed-benz.co.uk",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "vasl-sho.mohearn.co.uk.",
