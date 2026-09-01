@@ -36,12 +36,6 @@
     "url": "https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "65.109.187.98",
-    "port": "4466",
-    "secret": "dd114562821249bd7ac519130220c25d08",
-    "url": "https://t.me/proxy?server=65.109.187.98&port=4466&secret=dd114562821249bd7ac519130220c25d08"
-  },
-  {
     "server": "65.109.188.175",
     "port": "4466",
     "secret": "dd114562821249bd7ac519130220c25d08",
@@ -142,6 +136,12 @@
     "port": "22",
     "secret": "dd79e344818749bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=help.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+    "server": "hetzner.dasy2k1.co.uk",
+    "port": "443",
+    "secret": "7jz8JYFw8M_mFZZ30DJgD9pjb25zb2xlLmhldHpuZXIuY29t",
+    "url": "https://t.me/proxy?server=hetzner.dasy2k1.co.uk&port=443&secret=7jz8JYFw8M_mFZZ30DJgD9pjb25zb2xlLmhldHpuZXIuY29t"
   },
   {
     "server": "iro.varfootball2.co.uk",
