@@ -120,12 +120,6 @@
     "url": "https://t.me/proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169"
   },
   {
-    "server": "gogoli.vasledada.info",
-    "port": "8443",
-    "secret": "1603010200010001fc030386e24c3add",
-    "url": "https://t.me/proxy?server=gogoli.vasledada.info&port=8443&secret=1603010200010001fc030386e24c3add"
-  },
-  {
     "server": "gold.lavazemi4.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -172,6 +166,12 @@
     "port": "6775",
     "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
     "url": "https://t.me/proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+    "server": "mt.joumalanet.co.uk",
+    "port": "25565",
+    "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275",
+    "url": "https://t.me/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
     "server": "new.lambforkebeb.co.uk",
