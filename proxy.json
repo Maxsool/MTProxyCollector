@@ -12,6 +12,12 @@
     "url": "https://t.me/proxy?server=116.202.189.239&port=8443&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
+    "server": "185.84.156.44",
+    "port": "444",
+    "secret": "dd41b712fe12019c64e281bcb6aeccded7",
+    "url": "https://t.me/proxy?server=185.84.156.44&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7"
+  },
+  {
     "server": "185.84.156.45",
     "port": "444",
     "secret": "dd41b712fe12019c64e281bcb6aeccded7",
