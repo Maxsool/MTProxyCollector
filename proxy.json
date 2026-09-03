@@ -234,6 +234,12 @@
     "url": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
+    "server": "ssh2.best-moz.info",
+    "port": "22",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
     "server": "star.talebi.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
