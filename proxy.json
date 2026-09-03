@@ -108,6 +108,18 @@
     "url": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "hetzner.makkers.co.uk",
+    "port": "443",
+    "secret": "7rtyMmkLtZDLBkKdH_75xjdhY2NvdW50cy5oZXR6bmVyLmNvbQ==",
+    "url": "https://t.me/proxy?server=hetzner.makkers.co.uk&port=443&secret=7rtyMmkLtZDLBkKdH_75xjdhY2NvdW50cy5oZXR6bmVyLmNvbQ=="
+  },
+  {
+    "server": "iran-iran.muffinnoliershatelcomingsoon.co.uk",
+    "port": "8443",
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "https://t.me/proxy?server=iran-iran.muffinnoliershatelcomingsoon.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
     "server": "iro.varfootball2.co.uk",
     "port": "2053",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
