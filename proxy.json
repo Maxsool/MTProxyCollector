@@ -144,6 +144,12 @@
     "url": "https://t.me/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
+    "server": "mt2.best-moz.info",
+    "port": "25565",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=mt2.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
     "server": "new.lambforkebeb.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -262,12 +268,6 @@
     "port": "443",
     "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
     "url": "https://t.me/proxy?server=yeke-jahan.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D"
-  },
-  {
-    "server": "faq.slamawna.info",
-    "port": "444",
-    "secret": "dd41b712fe12019c64e281bcb6aeccded7",
-    "url": "tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7"
   },
   {
     "server": "j4y67nf.ir.meli-n13.info",
