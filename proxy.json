@@ -6,12 +6,6 @@
     "url": "https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "185.84.156.44",
-    "port": "444",
-    "secret": "dd41b712fe12019c64e281bcb6aeccded7",
-    "url": "https://t.me/proxy?server=185.84.156.44&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7"
-  },
-  {
     "server": "185.84.156.45",
     "port": "444",
     "secret": "dd41b712fe12019c64e281bcb6aeccded7",
@@ -238,6 +232,12 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "sudcl-cd.sptembrnow.info",
+    "port": "443",
+    "secret": "1603010200010001fc030386e24c3add",
+    "url": "https://t.me/proxy?server=sudcl-cd.sptembrnow.info&port=443&secret=1603010200010001fc030386e24c3add"
   },
   {
     "server": "uptime.speed-benz.co.uk",
