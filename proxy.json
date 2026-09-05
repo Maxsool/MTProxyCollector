@@ -102,12 +102,6 @@
     "url": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "hetzner.makkers.co.uk",
-    "port": "443",
-    "secret": "7rtyMmkLtZDLBkKdH_75xjdhY2NvdW50cy5oZXR6bmVyLmNvbQ==",
-    "url": "https://t.me/proxy?server=hetzner.makkers.co.uk&port=443&secret=7rtyMmkLtZDLBkKdH_75xjdhY2NvdW50cy5oZXR6bmVyLmNvbQ=="
-  },
-  {
     "server": "iro.varfootball2.co.uk",
     "port": "2053",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -118,6 +112,12 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "jabeja-bama.visitdoci.info",
+    "port": "443",
+    "secret": "1603010200010001fc030386e24c3add",
+    "url": "https://t.me/proxy?server=jabeja-bama.visitdoci.info&port=443&secret=1603010200010001fc030386e24c3add"
   },
   {
     "server": "mt.joumalanet.co.uk",
