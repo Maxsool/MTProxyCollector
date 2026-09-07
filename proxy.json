@@ -162,6 +162,12 @@
     "url": "https://t.me/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
+    "server": "mt.joumalanet.co.uk",
+    "port": "25565",
+    "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f",
+    "url": "https://t.me/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
+  },
+  {
     "server": "mt2.best-moz.info",
     "port": "25565",
     "secret": "dd79e344818749bd7ac519130220c25d09",
