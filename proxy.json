@@ -30,12 +30,6 @@
     "url": "https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "65.109.188.175",
-    "port": "4466",
-    "secret": "dd114562821249bd7ac519130220c25d08",
-    "url": "https://t.me/proxy?server=65.109.188.175&port=4466&secret=dd114562821249bd7ac519130220c25d08"
-  },
-  {
     "server": "91.98.97.225",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -94,12 +88,6 @@
     "port": "80",
     "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
     "url": "https://t.me/proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
-  },
-  {
-    "server": "dumaniltd.info",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=dumaniltd.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "flux.lavazemi5.co.uk",
@@ -168,22 +156,10 @@
     "url": "https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "lebbaszir.ir",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=lebbaszir.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "mt.best-moz.info",
     "port": "25565",
     "secret": "dd79e344818749bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=mt.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-    "server": "mt.joumalanet.co.uk",
-    "port": "25565",
-    "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275",
-    "url": "https://t.me/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275"
   },
   {
     "server": "mt.joumalanet.co.uk",
