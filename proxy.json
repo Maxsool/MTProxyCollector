@@ -102,12 +102,6 @@
     "url": "https://t.me/proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
   },
   {
-    "server": "eshkal-nadare.vasledada.info",
-    "port": "8443",
-    "secret": "1603010200010001fc030386e24c3add",
-    "url": "https://t.me/proxy?server=eshkal-nadare.vasledada.info&port=8443&secret=1603010200010001fc030386e24c3add"
-  },
-  {
     "server": "faq.slamawna.info",
     "port": "444",
     "secret": "dd41b712fe12019c64e281bcb6aeccded7",
@@ -204,12 +198,6 @@
     "url": "https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "mt.joumalanet.co.uk",
-    "port": "25565",
-    "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f",
-    "url": "https://t.me/proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add7765622e62616c652e696f"
-  },
-  {
     "server": "new.lambforkebeb.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -304,6 +292,12 @@
     "port": "22",
     "secret": "dd79e344818749bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+    "server": "ssh2.best-moz.info",
+    "port": "22",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
     "server": "star.talebi.co.uk",
