@@ -6,6 +6,18 @@
     "url": "https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
+    "server": "185.84.156.136",
+    "port": "444",
+    "secret": "dd41b712fe12019c64e281bcb6aeccded7",
+    "url": "https://t.me/proxy?server=185.84.156.136&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7"
+  },
+  {
+    "server": "185.84.156.137",
+    "port": "444",
+    "secret": "dd41b712fe12019c64e281bcb6aeccded7",
+    "url": "https://t.me/proxy?server=185.84.156.137&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7"
+  },
+  {
     "server": "185.84.156.45",
     "port": "444",
     "secret": "dd41b712fe12019c64e281bcb6aeccded7",
@@ -72,12 +84,6 @@
     "url": "https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "beest-sellerst.co.uk.",
-    "port": "443",
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "https://t.me/proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
     "server": "bo0ji.co.uk.",
     "port": "443",
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
@@ -94,6 +100,12 @@
     "port": "80",
     "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
     "url": "https://t.me/proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
+  },
+  {
+    "server": "deloomusic.ir.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=deloomusic.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "faq.slamawna.info",
