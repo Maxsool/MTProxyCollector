@@ -18,12 +18,6 @@
     "url": "https://t.me/proxy?server=185.84.156.137&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7"
   },
   {
-    "server": "185.84.156.45",
-    "port": "444",
-    "secret": "dd41b712fe12019c64e281bcb6aeccded7",
-    "url": "https://t.me/proxy?server=185.84.156.45&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7"
-  },
-  {
     "server": "21.hide.newflamingodomain.co.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -114,6 +108,12 @@
     "url": "https://t.me/proxy?server=deloomusic.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "dns.speed-benz.co.uk",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "faq.slamawna.info",
     "port": "444",
     "secret": "dd41b712fe12019c64e281bcb6aeccded7",
@@ -156,6 +156,12 @@
     "url": "https://t.me/proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "im.dumaniltd.co.uk",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "ir.ataman.info",
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
@@ -174,16 +180,16 @@
     "url": "https://t.me/proxy?server=ir.flipme.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
+    "server": "ir.genesbyjohn.info",
+    "port": "8443",
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "https://t.me/proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
     "server": "ir.panhandleflyers.info",
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
     "url": "https://t.me/proxy?server=ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "ir.u-lock-it.info",
-    "port": "8443",
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "https://t.me/proxy?server=ir.u-lock-it.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
     "server": "iro.varfootball2.co.uk",
