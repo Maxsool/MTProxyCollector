@@ -102,12 +102,6 @@
     "url": "https://t.me/proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
   },
   {
-    "server": "deloomusic.ir.",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=deloomusic.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "dns.speed-benz.co.uk",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -178,12 +172,6 @@
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
     "url": "https://t.me/proxy?server=ir.flipme.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "ir.genesbyjohn.info",
-    "port": "8443",
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "https://t.me/proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
     "server": "ir.panhandleflyers.info",
