@@ -78,12 +78,6 @@
     "url": "https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "bartarin.sillakhor.info",
-    "port": "443",
-    "secret": "1603010200010001fc030386e24c3add",
-    "url": "https://t.me/proxy?server=bartarin.sillakhor.info&port=443&secret=1603010200010001fc030386e24c3add"
-  },
-  {
     "server": "bo0ji.co.uk.",
     "port": "443",
     "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
@@ -96,10 +90,22 @@
     "url": "https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "d9ny.sillakhor.info",
+    "port": "443",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
+    "url": "https://t.me/proxy?server=d9ny.sillakhor.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q"
+  },
+  {
     "server": "deleted.antony-gordon.co.uk",
     "port": "80",
     "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
     "url": "https://t.me/proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
+  },
+  {
+    "server": "divooone.khodkarbic.info",
+    "port": "443",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
+    "url": "https://t.me/proxy?server=divooone.khodkarbic.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q"
   },
   {
     "server": "dns.speed-benz.co.uk",
@@ -130,6 +136,12 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "gorgmahal.barekatbashe.info",
+    "port": "443",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
+    "url": "https://t.me/proxy?server=gorgmahal.barekatbashe.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q"
   },
   {
     "server": "hadaf.golgoli2.co.uk",
