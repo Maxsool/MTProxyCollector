@@ -102,12 +102,6 @@
     "url": "https://t.me/proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D"
   },
   {
-    "server": "dns.speed-benz.co.uk",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "faq.slamawna.info",
     "port": "444",
     "secret": "dd41b712fe12019c64e281bcb6aeccded7",
@@ -222,6 +216,12 @@
     "url": "https://t.me/proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "nocloudnew.co.uk.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "noone.lavazemi1.co.uk",
     "port": "2083",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -300,16 +300,16 @@
     "url": "https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "ssh.meow0.co.uk",
-    "port": "22",
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
     "server": "star.talebi.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "support.infinityhalo.co.uk.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "yeke-jahan.mohearn.co.uk.",
