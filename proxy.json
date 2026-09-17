@@ -42,6 +42,12 @@
     "url": "https://t.me/proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
+    "server": "65.109.188.175",
+    "port": "4466",
+    "secret": "dd114562821249bd7ac519130220c25d08",
+    "url": "https://t.me/proxy?server=65.109.188.175&port=4466&secret=dd114562821249bd7ac519130220c25d08"
+  },
+  {
     "server": "Golden.Peachsoft.co.uk.",
     "port": "443",
     "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
@@ -168,6 +174,12 @@
     "url": "https://t.me/proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "nocloudnew.co.uk.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "noone.lavazemi1.co.uk",
     "port": "2083",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -250,6 +262,18 @@
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "ssh.meow0.co.uk",
+    "port": "22",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+    "server": "ssh2.best-moz.info",
+    "port": "22",
+    "secret": "dd79e344818749bd7ac519130220c25d09",
+    "url": "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
     "server": "star.talebi.co.uk",
