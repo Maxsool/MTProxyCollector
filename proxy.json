@@ -66,12 +66,6 @@
     "url": "https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   },
   {
-    "server": "ccc.horizon555.co.uk",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "craft.malavanann.co.uk",
     "port": "2083",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -148,6 +142,12 @@
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
     "url": "https://t.me/proxy?server=ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
+    "server": "ir.xeonxu.info",
+    "port": "8443",
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "https://t.me/proxy?server=ir.xeonxu.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
     "server": "iro.varfootball2.co.uk",
