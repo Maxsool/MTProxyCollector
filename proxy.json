@@ -204,12 +204,6 @@
     "url": "https://t.me/proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "new2.lambforkebeb.co.uk",
-    "port": "2096",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "nocloudnew.co.uk.",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -220,12 +214,6 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "onlineforless.co.uk.",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=onlineforless.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "rain.lavazemi2.co.uk",
