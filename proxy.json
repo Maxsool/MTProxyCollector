@@ -102,12 +102,6 @@
     "url": "https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "divar.benzcls.co.uk",
-    "port": "2096",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=divar.benzcls.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "e.networkmodeai.co.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -340,12 +334,6 @@
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=www.appstoff.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "you.benzcls.co.uk",
-    "port": "2096",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=you.benzcls.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "j4y7nf.ir.meli-n13.info",
