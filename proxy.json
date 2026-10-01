@@ -270,6 +270,12 @@
     "url": "https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
+    "server": "safireshghi.ir.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=safireshghi.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "sd.cipservice2.co.uk",
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -304,12 +310,6 @@
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=sn.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "ssh.meow0.co.uk",
-    "port": "22",
-    "secret": "dd79e344818749bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
     "server": "star.talebi.co.uk",
