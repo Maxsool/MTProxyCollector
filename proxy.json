@@ -36,12 +36,6 @@
     "url": "https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "3etare.co.uk.",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "41.hide.newflamingodomain.co.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -60,6 +54,12 @@
     "url": "https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "Hel-hi.co.uk.",
+    "port": "443",
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+  },
+  {
     "server": "api.mangoseason5.co.uk",
     "port": "2053",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -70,6 +70,12 @@
     "port": "2083",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "dandoon1.ir",
+    "port": "22",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=dandoon1.ir&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "dh1.masi.ir.he6fhd.ru",
@@ -186,12 +192,6 @@
     "url": "https://t.me/proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "nocloudnew.co.uk.",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "run.golgoli2.co.uk",
     "port": "2053",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -250,6 +250,12 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=web.mangoseason7.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "zaboort.info",
+    "port": "22",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=zaboort.info&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "j4y7nf.ir.meli-n13.info",
