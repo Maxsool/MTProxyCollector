@@ -60,6 +60,12 @@
     "url": "https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+    "server": "abdokhiar.asbodim.info",
+    "port": "88",
+    "secret": "1603010200010001fc030386e24c3add",
+    "url": "https://t.me/proxy?server=abdokhiar.asbodim.info&port=88&secret=1603010200010001fc030386e24c3add"
+  },
+  {
     "server": "api.mangoseason5.co.uk",
     "port": "2053",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
