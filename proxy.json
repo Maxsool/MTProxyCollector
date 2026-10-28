@@ -84,6 +84,12 @@
     "url": "https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "exiscos.co.uk.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "faq.slamawna.info",
     "port": "444",
     "secret": "dd41b712fe12019c64e281bcb6aeccded7",
