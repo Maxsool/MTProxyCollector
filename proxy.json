@@ -66,6 +66,12 @@
     "url": "https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "ccc.horizon555.co.uk",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "cdn1.graduat.co.uk",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -94,6 +100,12 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "dns.speed-benz.co.uk",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "exiscos.co.uk.",
