@@ -132,6 +132,12 @@
     "url": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "host.delestershop18.ir",
+    "port": "2083",
+    "secret": "ee1603010200010001fc030386e24c3add686f73742e64656c657374657273686f7031382e6972",
+    "url": "https://t.me/proxy?server=host.delestershop18.ir&port=2083&secret=ee1603010200010001fc030386e24c3add686f73742e64656c657374657273686f7031382e6972"
+  },
+  {
     "server": "ir-ir.ataman.info",
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
