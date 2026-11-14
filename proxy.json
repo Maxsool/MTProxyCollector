@@ -198,6 +198,12 @@
     "url": "https://t.me/proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
+    "server": "ir.konstruktion.co.uk",
+    "port": "8443",
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "https://t.me/proxy?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+  },
+  {
     "server": "ir.lv223.info",
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
@@ -214,12 +220,6 @@
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
     "url": "https://t.me/proxy?server=ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "ir.peachsoft.co.uk",
-    "port": "8443",
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "https://t.me/proxy?server=ir.peachsoft.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
     "server": "ir.xeonxu.info",
