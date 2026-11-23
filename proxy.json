@@ -60,6 +60,12 @@
     "url": "https://t.me/proxy?server=3621.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
+    "server": "3etare.co.uk.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "41.hide.7y76y.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -132,22 +138,58 @@
     "url": "https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
+    "server": "a1.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=a1.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "a2.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=a2.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "a3.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=a3.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "a4.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=a4.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "a5.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=a5.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "api.mangoseason5.co.uk",
     "port": "2053",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "bo0ji.co.uk.",
-    "port": "443",
-    "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "url": "https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
+    "server": "char.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=char.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "craft.malavanann.co.uk",
     "port": "2083",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "daryapiano.ir.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=daryapiano.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "dh1.masi.ir.he6fhd.ru",
@@ -160,6 +202,12 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "do.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=do.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "fame.saalaad.info",
@@ -192,6 +240,24 @@
     "url": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "haf.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=haf.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "hansoo.ir.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=hansoo.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "hash.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=hash.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "ir-mainland.steveharrop.co.uk",
     "port": "8443",
     "secret": "EERighJJvXrFGRMCIMjdCQ",
@@ -214,6 +280,18 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "john31.co.uk.",
+    "port": "8443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=john31.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "kalalida.ir.",
+    "port": "443",
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "https://t.me/proxy?server=kalalida.ir.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
     "server": "mio.miosen.cyou",
@@ -246,6 +324,24 @@
     "url": "https://t.me/proxy?server=new.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "new.nakoskoskesh.co.uk",
+    "port": "8080",
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=new.nakoskoskesh.co.uk&port=8080&secret=EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "nice.rozinalpoku.co.uk",
+    "port": "8080",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=nice.rozinalpoku.co.uk&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "noh.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=noh.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "old.graduat.co.uk",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -256,6 +352,12 @@
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "org.mediaad.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "puot.mozitop.co.uk",
@@ -286,6 +388,12 @@
     "port": "2096",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "shsh.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=shsh.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "silnet.varfootball.co.uk",
@@ -334,6 +442,12 @@
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=we.antony-gordon.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "yek.anotelinopalk.co.uk",
+    "port": "8880",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=yek.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "you.nasakhamia.co.uk",
