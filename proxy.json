@@ -187,6 +187,12 @@
   },
   {
     "server": "daryapiano.ir.",
+    "port": "443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=daryapiano.ir.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "daryapiano.ir.",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=daryapiano.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
@@ -244,6 +250,12 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=haf.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "hansoo.ir.",
+    "port": "443",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=hansoo.ir.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "hansoo.ir.",
