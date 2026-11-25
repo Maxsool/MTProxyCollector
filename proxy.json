@@ -1,17 +1,5 @@
 [
   {
-    "server": "1.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=1.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "11.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=11.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
     "server": "11.new1.ramkal12.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -30,12 +18,6 @@
     "url": "https://t.me/proxy?server=17fh.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "21.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=21.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
     "server": "21.mmd1.meli-n12.info",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
@@ -46,12 +28,6 @@
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=236f1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "31.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=31.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
     "server": "3621.mmd1.meli-n12.info",
@@ -66,46 +42,16 @@
     "url": "https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "41.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=41.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "51.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=51.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "61.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=61.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
     "server": "61.new1.ramkal12.uk",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=61.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "71.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=71.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
     "server": "731.masi.ir.he6fhd.ru",
     "port": "8443",
     "secret": "dd104462821249bd7ac519130220c25d09",
     "url": "https://t.me/proxy?server=731.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-    "server": "81.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=81.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
     "server": "85.133.200.11",
@@ -150,10 +96,10 @@
     "url": "https://t.me/proxy?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "91.hide.7y76y.uk",
-    "port": "8443",
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "https://t.me/proxy?server=91.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "87.248.144.92",
+    "port": "2053",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=87.248.144.92&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "ABOUT.Roo3beh.blog",
@@ -190,6 +136,12 @@
     "port": "2053",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "banoo.khooorshid.co.uk",
+    "port": "2096",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=banoo.khooorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "bo0ji.co.uk.",
@@ -258,12 +210,6 @@
     "url": "https://t.me/proxy?server=do.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "dryamusical.ir",
-    "port": "443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=dryamusical.ir&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
     "server": "exiscos.co.uk.",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -324,22 +270,10 @@
     "url": "https://t.me/proxy?server=hasht.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir-mainland.steveharrop.co.uk",
-    "port": "8443",
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "https://t.me/proxy?server=ir-mainland.steveharrop.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "ir-neverland.nowhearthis.co.uk",
-    "port": "8443",
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "https://t.me/proxy?server=ir-neverland.nowhearthis.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-  },
-  {
-    "server": "ir.closcloud.co.uk",
+    "server": "im.dumaniltd.co.uk",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "iro.varfootball2.co.uk",
@@ -358,12 +292,6 @@
     "port": "2086",
     "secret": "d2289d65c760a8245e24ffc2e3a3ba27",
     "url": "https://t.me/proxy?server=its.fastprx.co.uk&port=2086&secret=d2289d65c760a8245e24ffc2e3a3ba27"
-  },
-  {
-    "server": "john31.co.uk.",
-    "port": "443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=john31.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "mio.miosen.cyou",
@@ -400,6 +328,12 @@
     "port": "8080",
     "secret": "EERighJJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=new.nakoskoskesh.co.uk&port=8080&secret=EERighJJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "new.nikkhah.co.uk",
+    "port": "2096",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=new.nikkhah.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "nice.rozinalpoku.co.uk",
@@ -454,12 +388,6 @@
     "port": "8880",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=pnj.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "puot.mozitop.co.uk",
-    "port": "8443",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "rebous.info.",
@@ -546,6 +474,12 @@
     "url": "https://t.me/proxy?server=star.telbet.lol&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
+    "server": "tech.gooodrat.co.uk",
+    "port": "2096",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=tech.gooodrat.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
     "server": "telegram.telbet.app",
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -580,6 +514,12 @@
     "port": "8443",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "url": "https://t.me/proxy?server=you.nasakhamia.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+  },
+  {
+    "server": "zendebad.damavand.co.uk",
+    "port": "2096",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "https://t.me/proxy?server=zendebad.damavand.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
     "server": "j4y7nf.ir.meli-n13.info",
